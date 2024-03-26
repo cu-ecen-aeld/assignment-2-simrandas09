@@ -1,5 +1,5 @@
 
-# assignment-2-MoMagDii
+# assignment-2-simrandas09
 =======
 # aesd-assignments
 This repo contains public starter source code, scripts, and documentation for Advanced Embedded Software Development (ECEN-5713) and Advanced Embedded Linux Development assignments University of Colorado, Boulder.
@@ -31,5 +31,5 @@ As a part of the assignment instructions, you will setup your assignment repo to
 Note that the unit tests will fail on this repository, since assignments are not yet implemented.  That's your job :) 
 >>>>>>> assignments-base/master
 =======
-# assignment-2-MoMagDii
+# assignment-2-simrandas09
 >>>>>>> bc4a020692ead1ac1b5f835e2d7b53ac00505ea7
